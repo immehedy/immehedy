@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm from Bangladesh<br>✉️  Contact me at dev.mehedy.hassan@gmail.com<br>🚀  I'm currently working on Woofmeets<br>🧠  I'm learning Python<br>🤝  I'm open to collaborating on Any JS / PHP project<br>⚡  I'm a team player
+🌍  I'm from Dhaka, Bangladesh. 🇧🇩<br>✉️  Contact me at dev.mehedy.hassan@gmail.com<br>🚀  I'm currently working on Woofmeets<br>🧠  I'm learning Python<br>🤝  I'm open to collaborating on Any JS / PHP project<br>⚡  I'm a team player
 
 
 ## 🌐 Socials:
